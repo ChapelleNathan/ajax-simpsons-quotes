@@ -17,14 +17,15 @@
     <section class="section">
         <div class="container">
             <h1 class="title">Simpson API</h1>
+            <div id="simpsonQuote">
 
-            <div class="content" id="chuck-norris"></div>
+            </div>
         </div>
     </section>
 
     <!-- We need to load axios first! -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.0/axios.min.js" integrity="sha256-S1J4GVHHDMiirir9qsXWc8ZWw74PHHafpsHp5PXtjTs=" crossorigin="anonymous"></script>
-    <script></script>
+    <script src="simpsonQuotes.js"></script>
 </body>
 
 </html>
